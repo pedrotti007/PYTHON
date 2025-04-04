@@ -1,0 +1,1 @@
+print("Eu amo Python S2, não vivo sem Python, ele que bota comida na minha mesa")
