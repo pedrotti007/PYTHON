@@ -1,0 +1,17 @@
+def conta_vogais(texto):
+
+  
+  Args:
+    texto: A string a ser analisada.
+
+  Returns:
+    O número total de vogais na string.
+  """
+  vogais = "aeiouAEIOU"
+  contador = 0
+  for letra in texto:
+    if letra in vogais:
+      contador += 1
+  return contador
+
+
